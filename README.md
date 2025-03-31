@@ -20,8 +20,8 @@ This project simulates a robot exhibiting Brownian motion behavior within a squa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brownian-robot-simulation.git
-   cd brownian-robot-simulation
+   git clone https://github.com/Transcendental-Programmer/jde-test-python.git
+   cd jde-test-python
    ```
 
 2. Install dependencies:
