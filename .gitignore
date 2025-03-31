@@ -50,7 +50,6 @@ ENV/
 *.swo
 
 # Output files
-*.gif
 *.mp4
 *.png
 *.jpg
